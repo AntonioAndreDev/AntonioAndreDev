@@ -1,16 +1,22 @@
-### Hi there 👋
+### 👋 Olá, meu nome é Antônio André!
 
-<!--
-**AntonioAndreDev/AntonioAndreDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<table>
+  <tr>
+    <td>
+      <a href="https://github.com/antonioandredev/github-readme-stats">
+        <img align="center" src="https://github-readme-stats.vercel.app/api?username=antonioandredev&show_icons=true&theme=dark&border_radius=8&card_width=45%" alt="GitHub Stats" />
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/antonioandredev/github-readme-stats">
+        <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=antonioandredev" alt="Top Languages" />
+      </a>
+    </td>
+  </tr>
+</table>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+### Confira meu último projeto!
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=antonioandredev&repo=wheater-api)](https://github.com/antonioandredev/wheater-api)
+
