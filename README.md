@@ -1,19 +1,8 @@
-### 👋 Olá, meu nome é Antônio André!
+### 👋 Olá, meu nome é Antônio André! 🇧🇷
 
-<table>
-  <tr>
-    <td>
-      <a href="https://github.com/antonioandredev/github-readme-stats">
-        <img align="center" src="https://github-readme-stats.vercel.app/api?username=antonioandredev&show_icons=true&theme=dark&border_radius=8&card_width=45%" alt="GitHub Stats" />
-      </a>
-    </td>
-    <td>
-      <a href="https://github.com/antonioandredev/github-readme-stats">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=antonioandredev" alt="Top Languages" />
-      </a>
-    </td>
-  </tr>
-</table>
+##
+  <a href="https://www.linkedin.com/in/antonioandredev" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+[![ProfileViews](https://komarev.com/ghpvc/?username=antonioandredev&color=brightgreen&style=for-the-badge)](https://github.com/antonkomarev/github-profile-views-counter)
 
 ##
 
@@ -38,11 +27,6 @@
   <img align="center" alt="Antonio PostgreSql" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
   <img align="center" alt="Antonio Vue" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg">
 </div>
-
-##
-
-### 💻 Me acompanhe pelo LinkedIn!
-  <a href="https://www.linkedin.com/in/antonioandredev" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
 ##
 
