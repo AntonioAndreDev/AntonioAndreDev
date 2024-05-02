@@ -6,8 +6,11 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=antonioandredev&layout=compact&langs_count=7&theme=github_dark_dimmed"/>
 </div>
 
+##
+
+### 👀 Veja o que estou fazendo de perto
+
 <a href="https://www.linkedin.com/in/antonioandredev" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-[![ProfileViews](https://komarev.com/ghpvc/?username=antonioandredev&color=brightgreen&style=for-the-badge)](https://github.com/antonkomarev/github-profile-views-counter)
 
 ##
 
@@ -43,4 +46,7 @@
 <h1>
 <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=false&vCenter=true&width=500&height=70&duration=2500&lines=obrigado+pela+atenção!;" />
 </h1>
+
+###
+[![ProfileViews](https://komarev.com/ghpvc/?username=antonioandredev&color=brightgreen&style=for-the-badge)](https://github.com/antonkomarev/github-profile-views-counter)
 
