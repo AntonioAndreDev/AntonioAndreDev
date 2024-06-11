@@ -47,8 +47,6 @@
 <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=false&vCenter=true&width=500&height=70&duration=2500&lines=obrigado+pela+atenção!;" />
 </h1>
 
-##
-
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="images/github-contribution-grid-snake-dark.svg" />
@@ -58,5 +56,6 @@
 </div>
 
 ###
+
 [![ProfileViews](https://komarev.com/ghpvc/?username=antonioandredev&color=brightgreen&style=for-the-badge)](https://github.com/antonkomarev/github-profile-views-counter)
 
