@@ -23,3 +23,33 @@ jobs:
           build_dir: dist
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+  generate-snake-animation:
+      permissions: 
+        contents: write
+      runs-on: ubuntu-latest
+      timeout-minutes: 5
+      steps:
+        - name: Checkout repository
+          uses: actions/checkout@v2
+        - name: Create images directory
+          run: mkdir -p images
+        - name: Generate GitHub contribution grid snake
+          uses: Platane/snk/svg-only@v3
+          with:
+            github_user_name: ${{ github.repository_owner }}
+            outputs: |
+              dist/github-contribution-grid-snake.svg
+              dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+        - name: Move generated files to images directory
+          run: if ls dist/*.svg 1> /dev/null 2>&1; then mv dist/*.svg images/; fi
+        - name: Commit and push snake files
+          env:
+            GITHUB_TOKEN: ${{ secrets.METRICS_TOKEN }}
+          run: |
+            git config user.name github-actions
+            git config user.email github-actions@github.com
+            git add -A images/
+            git diff-index --quiet HEAD || git commit -m "Add generated snake contribution grid SVGs"
+            git pull origin ${{ github.ref }} --rebase || (git stash && git pull origin ${{ github.ref }} --rebase && git stash pop)
+            git push origin ${{ github.ref }}
