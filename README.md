@@ -1,12 +1,11 @@
-### 👋 Olá, meu nome é Antônio André! 🇧🇷
+# 👋 Olá, meu nome é Antônio André! 🇧🇷
 
-<div align="center">
+<!-- <div align="center">
   <a href="https://github.com/rafaballerini">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=antonioandredev&show_icons=true&theme=github_dark_dimmed&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=antonioandredev&layout=compact&langs_count=7&theme=github_dark_dimmed"/>
-</div>
+</div> -->
 
-##
 
 ### 👀 Veja o que estou fazendo de perto
 
@@ -40,9 +39,9 @@
 
 ##
 
-<h1>
+<!-- <h1>
 <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=false&vCenter=true&width=500&height=70&duration=2500&lines=obrigado+pela+atenção!;" />
-</h1>
+</h1> -->
 
 <div align="center">
   <picture>
